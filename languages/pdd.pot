@@ -1,0 +1,384 @@
+# Copyright (C) 2016 WP to PDD
+# This file is distributed under the same license as the WP to PDD package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP to PDD 0.9.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-to-pdd\n"
+"POT-Creation-Date: 2016-02-04 02:27:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:35
+msgid "Неизвестная ошибка"
+msgstr ""
+
+#: functions.php:40
+msgid "Домен добавлен в Почту для домена, но не подтвержден."
+msgstr ""
+
+#: functions.php:43
+msgid "Домен подтвержден, но MX-запись не настроена (почта не работает)."
+msgstr ""
+
+#: functions.php:51
+msgid "Домен подтвержден, MX-запись настроена (почта работает)."
+msgstr ""
+
+#: functions.php:54
+msgid "CNAME-запись и секретный файл не найдены."
+msgstr ""
+
+#: functions.php:57
+msgid "CNAME-запись и секретный файл неверные."
+msgstr ""
+
+#: functions.php:60
+msgid "CNAME-запись не найдена, секретный файл неверный."
+msgstr ""
+
+#: functions.php:63
+msgid "CNAME-запись неверная, секретный файл не найден."
+msgstr ""
+
+#: functions.php:66
+msgid "Домен не найден."
+msgstr ""
+
+#: functions.php:69
+msgid "Имя домена уже используется другим пользователем."
+msgstr ""
+
+#: functions.php:72
+msgid "MX-запись неверная."
+msgstr ""
+
+#: functions.php:75
+msgid "MX-запись не найдена."
+msgstr ""
+
+#: functions.php:85 functions.php:89
+msgid "Управление почтовыми ящиками"
+msgstr ""
+
+#: functions.php:85 functions.php:89 tmpl/all-boxes-tmpl.php:3
+msgid "Почтовые ящики"
+msgstr ""
+
+#: functions.php:86
+msgid "Все ящики"
+msgstr ""
+
+#: functions.php:87
+msgid "Настройки pdd"
+msgstr ""
+
+#: functions.php:87 tmpl/settings-tmpl.php:3
+msgid "Настройки"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:5
+msgid "Войти в почту"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:27
+msgid "Действия"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:28
+msgid "Заблокировать"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:29
+msgid "Разблокировть"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:30 tmpl/all-boxes-tmpl.php:119
+msgid "Удалить"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:32
+msgid "Применить"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:60 tmpl/all-boxes-tmpl.php:82
+msgid "Адрес"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:63 tmpl/all-boxes-tmpl.php:85
+#: tmpl/all-boxes-tmpl.php:179
+msgid "Имя"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:69 tmpl/all-boxes-tmpl.php:91
+msgid "Готовность к работе почтового ящика."
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:72 tmpl/all-boxes-tmpl.php:94
+msgid "Состояние"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:113
+msgid "Редактировать этот ящик"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:114
+msgid "Изменить"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:118
+msgid "Переместить этот ящик в корзину"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:128
+msgid "Ящик добавлен автоматически"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:128
+msgid "Ящик добавлен вручную"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:131
+msgid "Пользовательское соглашение не принято, ящик не используется."
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:131
+msgid "Пользовательское соглашение принято, ящик используется."
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:135
+msgid "Работает"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:137
+msgid "Заблокирован"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:146
+msgid "Нет почтовых ящиков"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:153
+msgid "Новый почтовый ящик"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:158
+msgid "Логин"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:161 tmpl/all-boxes-tmpl.php:185
+msgid "Пароль"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:162 tmpl/all-boxes-tmpl.php:186
+msgid "Пароль ещё раз"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:165
+msgid "Добавить"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:166 tmpl/all-boxes-tmpl.php:196
+msgid "Отмена"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:182
+msgid "Фамилия"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:191
+msgid "Заблокировать ящик"
+msgstr ""
+
+#: tmpl/all-boxes-tmpl.php:195 tmpl/connect-tmpl.php:36
+#: tmpl/settings-tmpl.php:28
+msgid "Сохранить"
+msgstr ""
+
+#: tmpl/connect-tmpl.php:3
+msgid "Подключение домена"
+msgstr ""
+
+#: tmpl/connect-tmpl.php:15
+msgid ""
+"Для подтверждения домена в корневом каталоге сайта был создан файл <b>%s</"
+"b>, не удаляйте его"
+msgstr ""
+
+#: tmpl/connect-tmpl.php:20
+msgid "Перейти к списку ящиков"
+msgstr ""
+
+#: tmpl/connect-tmpl.php:20
+msgid "Обновить"
+msgstr ""
+
+#: tmpl/connect-tmpl.php:28
+msgid ""
+"Для начала необходимо <a href=\"https://pdd.yandex.ru/?domain="
+"%s&actionStatus=success#%s\" target=\"_blank\">подключить домен</a> к "
+"сервису Яндекс Почта для домена."
+msgstr ""
+
+#: tmpl/connect-tmpl.php:29
+msgid ""
+"Затем, после того, как подтвердитедомен, необходимо <a href=\"https://pddimp."
+"yandex.ru/token/index.xml?domain=%s\" target=\"_blank\">получить токен</a> и "
+"вставить его в поле ниже."
+msgstr ""
+
+#: tmpl/connect-tmpl.php:35
+msgid "Вставьте полученный токен"
+msgstr ""
+
+#: tmpl/connect-tmpl.php:41 tmpl/settings-tmpl.php:12
+msgid "Автоматическая регистрация"
+msgstr ""
+
+#: tmpl/connect-tmpl.php:46 tmpl/settings-tmpl.php:17
+msgid "Автоматически создавать ящики для новых пользователей"
+msgstr ""
+
+#: tmpl/connect-tmpl.php:50 tmpl/settings-tmpl.php:21
+msgid ""
+"Почтовые ящики будут автоматически создаваться при регистрации пользователя, "
+"изменяться при обновлении профиля и удаляться при удалении пользователя"
+msgstr ""
+
+#: tmpl/connect-tmpl.php:57
+msgid "Подтверждение домена"
+msgstr ""
+
+#: tmpl/connect-tmpl.php:62
+msgid "Создать html-файл в корне сайта для подтверждения домена"
+msgstr ""
+
+#: tmpl/connect-tmpl.php:66
+msgid "Если домен уже подтвержден, то нет смысла отмечать эту опцию"
+msgstr ""
+
+#: wp-to-pdd.php:18
+msgid "Почтовый ящик успешно создан"
+msgstr ""
+
+#: wp-to-pdd.php:19
+msgid "Почтовый ящик успешно удален"
+msgstr ""
+
+#: wp-to-pdd.php:20
+msgid "Почтовый ящик успешно обновлен"
+msgstr ""
+
+#: wp-to-pdd.php:21
+msgid "Удалить почтовый ящик?"
+msgstr ""
+
+#: wp-to-pdd.php:22
+msgid "Удалить выбранные почтовые ящики?"
+msgstr ""
+
+#: wp-to-pdd.php:23
+msgid "Ящик с таким логином уже зарегистрирован"
+msgstr ""
+
+#: wp-to-pdd.php:24
+msgid "Не указан идентификатор или логин"
+msgstr ""
+
+#: wp-to-pdd.php:25
+msgid "Имя домена не указано или не соответствует RFC"
+msgstr ""
+
+#: wp-to-pdd.php:26
+msgid "Некорректный логин"
+msgstr ""
+
+#: wp-to-pdd.php:27
+msgid "Домен заблокирован (например, за спам и т.п.)"
+msgstr ""
+
+#: wp-to-pdd.php:28
+msgid "Необходимо указать пароль два раза"
+msgstr ""
+
+#: wp-to-pdd.php:29
+msgid "Домен не добавлен"
+msgstr ""
+
+#: wp-to-pdd.php:30
+msgid ""
+"Произошел временный сбой или ошибка работы API (повторите запрос позже)."
+msgstr ""
+
+#: wp-to-pdd.php:31 wp-to-pdd.php:32 wp-to-pdd.php:33 wp-to-pdd.php:34
+msgid "Не передан обязательный параметр."
+msgstr ""
+
+#: wp-to-pdd.php:35
+msgid "Запрещенное имя домена."
+msgstr ""
+
+#: wp-to-pdd.php:36
+msgid "Передан неверный ПДД-токен."
+msgstr ""
+
+#: wp-to-pdd.php:37
+msgid "Передан неверный логин."
+msgstr ""
+
+#: wp-to-pdd.php:38
+msgid "Передан неверный пароль."
+msgstr ""
+
+#: wp-to-pdd.php:39
+msgid "Не передан заголовок PddToken."
+msgstr ""
+
+#: wp-to-pdd.php:40
+msgid ""
+"Вам недоступна данная операция (Вы не являетесь администратором этого "
+"домена)."
+msgstr ""
+
+#: wp-to-pdd.php:41
+msgid "Домен заблокирован (например, за спам и т.п.)."
+msgstr ""
+
+#: wp-to-pdd.php:42
+msgid "Имя домена используется другим пользователем."
+msgstr ""
+
+#: wp-to-pdd.php:43
+msgid "Превышено допустимое количество подключенных доменов (50)."
+msgstr ""
+
+#: wp-to-pdd.php:44
+msgid ""
+"Яндекс.Почта для домена не может установить соединение с сервером-источником "
+"для импорта."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP to PDD"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.dampi.ru/plagin-wordpress-wp-to-pdd-versiya-0-9-1"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Автоматическая регистрация почтовых ящиков для пользователей вашего сайта, а "
+"так же управление ящиками пользователей сайта."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Денис Бидюков"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.dampi.ru/"
+msgstr ""

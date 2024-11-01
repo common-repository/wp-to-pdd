@@ -1,0 +1,145 @@
+.page-title-action, .page-title-action:active {
+	margin-left:4px;
+	padding:4px 8px;
+	position:relative;
+	top:-3px;
+	text-decoration:none;
+	border:none;
+	-webkit-border-radius:2px;
+	-moz-border-radius:2px;
+	border-radius:2px;
+	background:#e0e0e0;
+	text-shadow:none;
+	font-weight:600;
+	font-size:13px
+}
+
+.page-title-action:hover{
+	background:#00a0d2;
+	color:#fff
+}
+
+.mail-boxes {
+	display: table;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.mail-boxes-form {
+	display: table-cell;
+	width: 30%;
+}
+
+.mail-boxes-list {
+	display: table-cell;
+	width:760%;
+}
+
+.mail-boxes-list-actions {
+	display: table;
+	width: 100%;
+}
+
+.mail-box-actions {
+	display: table-cell;
+	width: 50%;
+}
+
+.mail-box-pagenav {
+	display: table-cell;
+	text-align: right;
+	width: 50%;
+}
+
+.mail-box-pagenav a, .mail-box-pagenav span {
+	display: inline-block;
+	padding: 5px 10px;
+	border: 1px solid #dddddd;
+	color: #ccc;
+	font-size: 15px;
+	background-color: #fff;
+	-webkit-border-radius:2px;
+	-moz-border-radius:2px;
+	border-radius:2px;
+	text-decoration: none;
+	margin: 0 2px;
+}
+
+.mail-box-pagenav a:hover {
+	text-decoration: none;
+	background-color: #f1f1f1;
+}
+
+.box-list-table {
+	clear: both;
+	background-color: #fff;
+	border: 1px solid #DEDEDE;
+	width: 100%;
+}
+
+.box-list-table a,
+.box-list-table a:focus {
+	text-decoration: none;
+	outline: none;
+}
+
+.box-list-table a:hover {
+	text-decoration: underline;
+}
+
+.box-list-table thead td,
+.box-list-table thead  th,
+.box-list-table tfoot td,
+.box-list-table tfoot  th {
+	text-align: left;
+}
+
+.box-list-table tfoot td,
+.box-list-table tfoot  th {
+	border-top: 1px solid #DEDEDE;
+}
+
+.box-list-table thead td,
+.box-list-table thead  th {
+	border-bottom: 1px solid #DEDEDE;
+}
+
+.box-list-table thead td,
+.box-list-table tfoot td,
+.box-list-table tbody th {
+	width:2.2em;
+	vertical-align:top;
+}
+
+.box-list-table thead td,
+.box-list-table tfoot td {
+	padding: 11px 11px 11px 16px;
+}
+
+.box-list-table tbody th {
+	padding: 11px 5px 0 0;
+}
+
+.box-list-table tbody td {
+	padding: 8px 0 5px 0;
+	vertical-align:top;
+}
+
+.box-list-table tfoot td input[type=checkbox],
+.box-list-table tbody th input[type=checkbox],
+.box-list-table thead td input[type=checkbox] {
+}
+
+.fa.red {
+	color: #ff0000;
+	font-size: 20px;
+}
+
+.fa.head {
+	font-size: 20px;
+}
+
+.box-list-table  .fa-cogs, .box-list-table  .fa-hand-stop-o {
+	font-size: 20px;
+	color: green;
+}
